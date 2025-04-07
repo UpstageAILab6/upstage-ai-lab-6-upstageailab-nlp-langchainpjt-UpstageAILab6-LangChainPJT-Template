@@ -299,4 +299,23 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# pycache
+__pycache__
+**/__pycache__
+
+
+# PDF
+*.pdf
+
+
+# faiss_index/
+vectorDB/faiss_index/
+MCP/vector_db/
+
 # End of https://www.toptal.com/developers/gitignore/api/macos,linux,windows,python,jupyternotebooks,dotenv,visualstudiocode,vim
+
+
+data/
+faiss_index_dir/
+faiss_index_semantic_dir/
+semantic_chunks.pkl
