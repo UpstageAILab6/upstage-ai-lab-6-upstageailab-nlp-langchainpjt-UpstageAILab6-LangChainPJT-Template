@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/5BS4k7bR)
 # **LangChain 프로젝트** *(예시)*
 
 LangChain과 MLOps 기술을 활용하여, 사내 문서 기반 Q&A 시스템을 구축하는 프로젝트입니다.  
