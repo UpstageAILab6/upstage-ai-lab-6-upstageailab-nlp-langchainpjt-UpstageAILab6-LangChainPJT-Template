@@ -307,6 +307,8 @@ __pycache__
 # PDF
 *.pdf
 
+# PNG
+*.png
 
 # faiss_index/
 vectorDB/faiss_index/
